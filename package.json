@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/mfbadr/html-css-intro",
   "dependencies": {
-    "express": "^4.7.2"
+    "ejs": "^1.0.0",
+    "express": "^4.7.2",
+    "morgan": "^1.2.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
