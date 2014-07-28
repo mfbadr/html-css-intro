@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+body{
+  margin: 0px;
+  background-color: gray;
+}
+nav{
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+h1{
+  border: 3px double blue;
+  font-family: 'Lobster', cursive;
+  color:red;
+  background-color: green;
+  font-size: 50px;
+  letter-spacing: 3px;
+  padding: 20px;
+  margin: 0px;
+}
+
+a{
+  font-family: sans-serif;
+  text-decoration: none;
+  color: purple;
+  border: 1px dashed blue;
+  padding: 5px;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: orange;
+  background-color: purple;
+}
+
+.super{
+  color: red;
+}
+
+#awesome{
+  color: blue;
+}
